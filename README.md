@@ -26,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amancodecraft&show_icons=true&locale=en" alt="amancodecraft" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amancodecraft&" alt="amancodecraft" /></p>
-
--->
